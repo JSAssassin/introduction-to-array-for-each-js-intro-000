@@ -1,6 +1,6 @@
 // Add your doToElementsInArray() function here:
-function doToElementsInArray(callback){
-  Array.prototype.forEach(callback());
+function doToElementsInArray(array, callback){
+  array.forEach(callback());
 }
 
 // Add your changeCompletely() function here:
