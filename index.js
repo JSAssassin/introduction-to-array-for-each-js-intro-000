@@ -1,5 +1,7 @@
 // Add your doToElementsInArray() function here:
 function doToElementsInArray(callback){
+  console.log(callback);
+
   Array.prototype.forEach(callback);
 }
 
