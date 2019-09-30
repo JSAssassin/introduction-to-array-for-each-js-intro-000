@@ -4,4 +4,3 @@ function doToElementsInArray(callback){
 }
 
 // Add your changeCompletely() function here:
-
